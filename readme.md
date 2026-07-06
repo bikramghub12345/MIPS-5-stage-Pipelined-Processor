@@ -53,6 +53,8 @@ A general mips 5 stage pipelined processor(our implementation has some small dif
 
 ## Supported Instructions
 
+Total 32 instructions are supported by this 5-stage Pipelined Processor
+
 **R-type:** `add`, `addu`, `sub`, `subu`, `and`, `or`, `xor`, `nor`, `slt`, `sltu`, `sll`, `srl`, `sra`
 
 **I-type:** `addi`, `andi`, `ori`, `xori`, `slti`, `sltiu`, `lui`, `lw`, `sw`, `lb`, `lbu`, `lh`, `sb`, `sh`, `beq`, `bne`
